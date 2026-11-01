@@ -33,9 +33,9 @@ Werkt op Android 7 of nieuwer.
 
 ## Privacy
 
-- Je logt in via de gewone schoolinlog (Microsoft). De app slaat je wachtwoord niet op.
+- Je logt in via de gewone schoolinlog (Microsoft). De app ziet en bewaart je wachtwoord niet; hij houdt je ingelogd met de inlogcookies van het portaal (tot 30 dagen) en de Zermelo-sleutel, in de afgeschermde opslag van de app. Uitloggen wist ze.
 - Je cijfers, rooster, huiswerk, absentie en reminders worden alleen op je eigen telefoon bewaard en nergens anders heen gestuurd.
-- Op de achtergrond kijkt de app ongeveer elk half uur, en elke schooldag een uur voor je eerste les, in het portaal en Zermelo of er iets nieuw is. Dat gaat met je eigen inlog.
+- Op de achtergrond kijkt de app in het portaal en Zermelo of er iets nieuw is: op wifi elk half uur, op 4G/5G elke 2,5 uur (alleen rooster en cijfers), een uur voor je eerste les, en 's nachts niet. Instelbaar bij Meer → Datagebruik.
 - Bij uitloggen blijven je geopende cijfers en reminders op je telefoon bewaard onder jouw account, zodat ze terugkomen als je weer inlogt.
 - De app kijkt op GitHub of er een update is en downloadt die daar. GitHub krijgt alleen een gewoon verzoek, geen gegevens over jou.
 - Loopt de app vast, dan gaat de technische foutmelding automatisch naar de ontwikkelaar (app-versie, telefoonmodel en de fout zelf, geen cijfers of inlog).
