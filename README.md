@@ -32,6 +32,7 @@ Werkt op Android 7 of nieuwer.
 
 - Je logt in via de gewone schoolinlog (Microsoft). De app slaat je wachtwoord niet op.
 - Je cijfers, rooster en huiswerk worden alleen op je eigen telefoon bewaard en nergens anders heen gestuurd.
+- Loopt de app vast, dan gaat de technische foutmelding automatisch naar de ontwikkelaar (app-versie, telefoonmodel en de fout zelf, geen cijfers of inlog).
 - Er zitten geen advertenties of trackers in.
 
 ## Let op
