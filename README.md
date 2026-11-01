@@ -25,6 +25,8 @@ Ichthus+ is een onofficiële Android-app voor leerlingen van het Ichthus College
 2. Tik op **Add App** en plak de link van deze pagina.
 3. Tik op **Install**.
 
+**Updates:** vanaf versie 2.5.6 kan Ichthus+ zichzelf bijwerken. Als er een nieuwe versie is, zie je dat in de app en is het één tik.
+
 **Zonder Obtainium:** download `Ichthus+.apk` bij de nieuwste [release](../../releases/latest) en open het bestand op je telefoon.
 
 Werkt op Android 7 of nieuwer.
@@ -32,7 +34,10 @@ Werkt op Android 7 of nieuwer.
 ## Privacy
 
 - Je logt in via de gewone schoolinlog (Microsoft). De app slaat je wachtwoord niet op.
-- Je cijfers, rooster en huiswerk worden alleen op je eigen telefoon bewaard en nergens anders heen gestuurd.
+- Je cijfers, rooster, huiswerk, absentie en reminders worden alleen op je eigen telefoon bewaard en nergens anders heen gestuurd.
+- Op de achtergrond kijkt de app ongeveer elk half uur, en elke schooldag een uur voor je eerste les, in het portaal en Zermelo of er iets nieuw is. Dat gaat met je eigen inlog.
+- Bij uitloggen blijven je geopende cijfers en reminders op je telefoon bewaard onder jouw account, zodat ze terugkomen als je weer inlogt.
+- De app kijkt op GitHub of er een update is en downloadt die daar. GitHub krijgt alleen een gewoon verzoek, geen gegevens over jou.
 - Loopt de app vast, dan gaat de technische foutmelding automatisch naar de ontwikkelaar (app-versie, telefoonmodel en de fout zelf, geen cijfers of inlog).
 - Er zitten geen advertenties of trackers in.
 
