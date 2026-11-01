@@ -24,7 +24,7 @@ Ichthus+ is een onofficiële Android-app voor leerlingen van het Ichthus College
 2. Tik op **Add App** en plak de link van deze pagina.
 3. Tik op **Install**.
 
-**Zonder Obtainium:** download `IchthusPlus.apk` bij de nieuwste [release](../../releases/latest) en open het bestand op je telefoon.
+**Zonder Obtainium:** download `Ichthus+.apk` bij de nieuwste [release](../../releases/latest) en open het bestand op je telefoon.
 
 Werkt op Android 7 of nieuwer.
 
