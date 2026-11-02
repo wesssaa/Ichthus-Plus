@@ -1,8 +1,8 @@
-# Ichthus+
+# W.S.P
 
-**Je cijfers, rooster en huiswerk van het Ichthus College in één overzichtelijke app, en nieuwe cijfers open je als een pakje.**
+**Je cijfers, rooster en huiswerk van school in één overzichtelijke app, en nieuwe cijfers open je als een pakje.**
 
-Ichthus+ is een onofficiële Android-app voor leerlingen van het Ichthus College in Veenendaal. Je logt in met je eigen schoolaccount; de app zet alles van het leerlingportaal en Zermelo in een rustig jasje, wit of zwart, met jouw eigen accentkleur.
+W.S.P is een onofficiële Android-app voor leerlingen. Je logt in met je eigen schoolaccount; de app zet alles van het leerlingportaal en Zermelo in een rustig jasje, wit of zwart, met jouw eigen accentkleur.
 
 ## Wat zit erin
 
@@ -26,15 +26,15 @@ Ichthus+ is een onofficiële Android-app voor leerlingen van het Ichthus College
 
 1. Download **`Ichthus+.apk`** bij de nieuwste [release](../../releases/latest) (of open de APK die je van iemand hebt gekregen).
 2. Open het bestand op je telefoon. Vraagt Android of je browser of WhatsApp apps mag installeren, tik dan op **Instellingen**, zet **Toestaan uit deze bron** aan en ga terug.
-3. Tik op **Installeren** en open Ichthus+.
+3. Tik op **Installeren** en open W.S.P.
 
 Werkt op Android 7 of nieuwer.
 
 ## Updates
 
-Ichthus+ werkt zichzelf bij, je hoeft niets meer te downloaden.
+W.S.P werkt zichzelf bij, je hoeft niets meer te downloaden.
 
-- Bij de eerste keer openen vraagt de app je om in de instellingen **Toestaan uit deze bron** aan te zetten voor Ichthus+. Dat is alleen voor updates van Ichthus+ zelf.
+- Bij de eerste keer openen vraagt de app je om in de instellingen **Toestaan uit deze bron** aan te zetten voor W.S.P. Dat is alleen voor updates van W.S.P zelf.
 - Staat dat aan, dan kijkt de app elke keer dat je hem op wifi opent of er een nieuwe versie is. Is die er, dan zie je **Nieuwe versie** met wat er nieuw is: tik op **Nu bijwerken** en daarna bij Android op **Updaten**. Je cijfers, reminders en instellingen blijven gewoon staan.
 - Geen tijd? Kies **herinner me over** 1 uur, 1 dag, 3 dagen of 1 week.
 - Zelf kijken kan altijd bij **Meer → Zoek naar updates**.
@@ -52,4 +52,4 @@ Ichthus+ werkt zichzelf bij, je hoeft niets meer te downloaden.
 
 ## Let op
 
-Ichthus+ is een persoonlijk project van een leerling. De app is niet gemaakt door of namens het Ichthus College of Zermelo, en zij zijn er niet verantwoordelijk voor. De gegevens komen uit het leerlingportaal en Zermelo; twijfel je ergens over, kijk dan in het portaal zelf.
+W.S.P is een persoonlijk project van een leerling. De app is niet gemaakt door of namens je school of Zermelo, en zij zijn er niet verantwoordelijk voor. De gegevens komen uit het leerlingportaal en Zermelo; twijfel je ergens over, kijk dan in het portaal zelf.
