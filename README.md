@@ -11,7 +11,8 @@ Ichthus+ is een onofficiële Android-app voor leerlingen van het Ichthus College
 - **Wat moet ik halen?** Rekent uit welk cijfer je nodig hebt voor een 5,5 of hoger.
 - **Rooster uit Zermelo**, per dag of per week, met uitval en lokaalwijzigingen (en waar de les eerst was). Bovenaan zie je welke les nu bezig is en hoeveel minuten er nog over zijn. Een uur voor je eerste les ververst de app alles.
 - **Vrije dagen en vakanties** uit de jaaragenda van school, met aftellen naar de volgende vakantie.
-- **Huiswerk** per week, afvinken, en herinneringen per vak of per opdracht.
+- **Huiswerk** per week, afvinken, herinneringen per vak of per opdracht, en zelf huiswerk toevoegen dat de docent niet online heeft gezet. Een rood getalletje laat zien als er iets nieuws is.
+- **Rooster van iemand anders** opzoeken met leerlingnummer of naam (als je school dat in Zermelo toestaat).
 - **Eigen reminders**: typ waaraan je moet denken, kies de dag en tijd, eenmalig of herhalend (elke dag, om de zoveel dagen of weken). Je ziet ze ook in je rooster.
 - **Docenten**: tik op een docentcode (bijv. Stn) voor de naam en het e-mailadres.
 - **Widget** op je startscherm met je volgende les, het lokaal en of hij uitvalt.
@@ -19,6 +20,7 @@ Ichthus+ is een onofficiële Android-app voor leerlingen van het Ichthus College
 - **Wit of zwart** met je eigen accentkleur, zelf de tabbalk indelen en kiezen uit meerdere app-icoontjes.
 - **Zuinig met data**: kies zelf hoe vaak de app op wifi en op 4G/5G kijkt, met een schatting van je dataverbruik.
 - **Rondleiding** bij de eerste keer, die je alle onderdelen laat zien.
+- Naar beneden trekken om te vernieuwen, je klas en het weeknummer bovenin.
 
 ## Installeren
 
@@ -40,7 +42,8 @@ Ichthus+ werkt zichzelf bij, je hoeft niets meer te downloaden.
 ## Privacy
 
 - Je logt in via de gewone schoolinlog (Microsoft). De app ziet en bewaart je wachtwoord niet; hij houdt je ingelogd met de inlogcookies van het portaal (tot 30 dagen) en de Zermelo-sleutel, in de afgeschermde opslag van de app. Uitloggen wist ze.
-- Je cijfers, rooster, huiswerk, absentie en reminders worden alleen op je eigen telefoon bewaard en nergens anders heen gestuurd.
+- Je cijfers, rooster, huiswerk, absentie, reminders en eigen huiswerk worden alleen op je eigen telefoon bewaard en nergens anders heen gestuurd.
+- Het rooster van een medeleerling kun je alleen zien als je school dat in Zermelo toestaat; de app bewaart het niet.
 - Op de achtergrond kijkt de app in het portaal en Zermelo of er iets nieuw is: op wifi elk half uur, op 4G/5G elke 2,5 uur (alleen rooster en cijfers), een uur voor je eerste les, en 's nachts niet. Instelbaar bij Meer → Datagebruik.
 - Bij uitloggen blijven je geopende cijfers en reminders op je telefoon bewaard onder jouw account, zodat ze terugkomen als je weer inlogt.
 - De app kijkt op GitHub of er een update is en downloadt die daar. GitHub krijgt alleen een gewoon verzoek, geen gegevens over jou.
