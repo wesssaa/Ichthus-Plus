@@ -12,7 +12,7 @@ Ichthus+ is een onofficiële Android-app voor leerlingen van het Ichthus College
 - **Rooster uit Zermelo**, per dag of per week, met uitval en lokaalwijzigingen (en waar de les eerst was). Bovenaan zie je welke les nu bezig is en hoeveel minuten er nog over zijn. Een uur voor je eerste les ververst de app alles.
 - **Vrije dagen en vakanties** uit de jaaragenda van school, met aftellen naar de volgende vakantie.
 - **Huiswerk** per week, afvinken, herinneringen per vak of per opdracht, en zelf huiswerk toevoegen dat de docent niet online heeft gezet. Een rood getalletje laat zien als er iets nieuws is.
-- **Rooster van iemand anders** opzoeken met leerlingnummer of naam (als je school dat in Zermelo toestaat).
+- **Rooster van iemand anders** bekijken met een leerlingnummer (als je school dat in Zermelo toestaat).
 - **Eigen reminders**: typ waaraan je moet denken, kies de dag en tijd, eenmalig of herhalend (elke dag, om de zoveel dagen of weken). Je ziet ze ook in je rooster.
 - **Docenten**: tik op een docentcode (bijv. Stn) voor de naam en het e-mailadres.
 - **Widget** op je startscherm met je volgende les, het lokaal en of hij uitvalt.
